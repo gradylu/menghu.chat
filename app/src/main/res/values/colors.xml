@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 颜色资源：统一管理主题颜色 -->
+<resources>
+    <!-- 主色：橙色 -->
+    <color name="orange_primary">#FFFF7A3F</color>
+    <color name="orange_dark">#FFE56A2F</color>
+    <color name="orange_light">#FFFFA876</color>
+
+    <!-- 强调色：紫色 -->
+    <color name="purple_accent">#FF7C4DFF</color>
+    <color name="purple_dark">#FF6140D6</color>
+    <color name="purple_light">#FFB89CFF</color>
+
+    <!-- 背景与表面色 -->
+    <color name="background">#FFF5F0</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="surface_variant">#FFF0E8</color>
+
+    <!-- 文本颜色 -->
+    <color name="text_primary">#FF1A1A1A</color>
+    <color name="text_secondary">#FF666666</color>
+    <color name="text_hint">#FFB0B0B0</color>
+    <color name="text_on_primary">#FFFFFFFF</color>
+
+    <!-- 边框与分割线 -->
+    <color name="divider">#FFE0E0E0</color>
+    <color name="border">#FFD0D0D0</color>
+
+    <!-- 状态色 -->
+    <color name="success">#FF4CAF50</color>
+    <color name="error">#FFE53935</color>
+    <color name="warning">#FFFFB300</color>
+    <color name="info">#FF2196F3</color>
+
+    <!-- 图标与通用 -->
+    <color name="icon_default">#FF555555</color>
+    <color name="chat_bubble_me">#FFFF7A3F</color>
+    <color name="chat_bubble_other">#FFF0F0F0</color>
+</resources>

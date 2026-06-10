@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 尺寸资源：统一管理间距、圆角、字体大小等 -->
+<resources>
+
+    <!-- 间距 -->
+    <dimen name="spacing_4dp">4dp</dimen>
+    <dimen name="spacing_8dp">8dp</dimen>
+    <dimen name="spacing_12dp">12dp</dimen>
+    <dimen name="spacing_16dp">16dp</dimen>
+    <dimen name="spacing_20dp">20dp</dimen>
+    <dimen name="spacing_24dp">24dp</dimen>
+    <dimen name="spacing_32dp">32dp</dimen>
+
+    <!-- 圆角 -->
+    <dimen name="radius_small">8dp</dimen>
+    <dimen name="radius_medium">12dp</dimen>
+    <dimen name="radius_large">16dp</dimen>
+    <dimen name="radius_xlarge">24dp</dimen>
+    <dimen name="radius_full">9999dp</dimen>
+
+    <!-- 按钮高度 -->
+    <dimen name="button_height_normal">48dp</dimen>
+    <dimen name="button_height_small">40dp</dimen>
+
+    <!-- 输入框高度 -->
+    <dimen name="input_height_normal">52dp</dimen>
+
+    <!-- 头像尺寸 -->
+    <dimen name="avatar_small">36dp</dimen>
+    <dimen name="avatar_normal">48dp</dimen>
+    <dimen name="avatar_large">72dp</dimen>
+    <dimen name="avatar_xlarge">96dp</dimen>
+
+    <!-- 字体大小 -->
+    <dimen name="font_small">12sp</dimen>
+    <dimen name="font_normal">14sp</dimen>
+    <dimen name="font_medium">16sp</dimen>
+    <dimen name="font_large">18sp</dimen>
+    <dimen name="font_xlarge">24sp</dimen>
+    <dimen name="font_title">28sp</dimen>
+
+    <!-- 图标尺寸 -->
+    <dimen name="icon_small">16dp</dimen>
+    <dimen name="icon_normal">24dp</dimen>
+    <dimen name="icon_large">32dp</dimen>
+
+    <!-- 边框宽度 -->
+    <dimen name="border_thin">1dp</dimen>
+    <dimen name="border_thick">2dp</dimen>
+
+    <!-- 列表项高度 -->
+    <dimen name="list_item_height_normal">64dp</dimen>
+
+</resources>

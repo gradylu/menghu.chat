@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 主题资源：AppCompat 主题作为窗口/状态栏基础，实际 Compose UI 由 core/ui/theme/Theme.kt 的 MaterialTheme 管理 -->
+<resources>
+
+    <!-- 基础主题：AppCompat Light NoActionBar（纯 Compose 应用只用于窗口背景与状态栏） -->
+    <style name="Theme.MenghuChat" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+
+    <!-- 启动页主题（SplashScreen 备用） -->
+    <style name="Theme.MenghuChat.SplashScreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/background</item>
+    </style>
+
+</resources>
